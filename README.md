@@ -1,4 +1,4 @@
-This is just a collection of useful libraries, utilities and development tools that may be worth a look. Most of these are tools that I ( @20after4 ) use on a daily basis.
+This is just a collection of useful libraries, utilities and development tools that may be worth a look. Most of these are tools that I ( [@20after4](https://github.com/20after4/) ) use on a daily basis.
 
 ### Misc.
 
