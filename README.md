@@ -2,13 +2,15 @@ This is just a collection of useful libraries, utilities and development tools t
 
 ### Misc.
 
-- https://github.com/jonas/tig - Text-mode Interface for Git. A secret weapon for Git productivity. Quickly browse repositories, view diffs, search commit logs and more. Highly recommended for anyone who prefers a command line but still misses some GUI code browser functionality.
-- [https://rclone.org/](https://rclone.org/) -  file management utility for cloud storage.
+- [tig](https://github.com/jonas/tig) - Text-mode Interface for Git. A secret weapon for Git productivity. Quickly browse repositories, view diffs, search commit logs and more. Highly recommended for anyone who prefers a command line but still misses some GUI code browser functionality.
+- [rclone](https://rclone.org/) -  file management utility for cloud storage.
 - https://github.com/pistazie/cdk-dia - generate graphical diagrams of CDK stacks
 - [jc](https://github.com/kellyjonbrazil/jc) - parse the output from various command line utilities. Very useful for automating all of the things.
 - https://github.com/simonw/datasette - “*An open source multi-tool for exploring and publishing data” - a high quality web (python) application framework built on SQLite with many plugins providing extensive functionality.*
 - [https://lite.datasette.io/](https://lite.datasette.io/) - datasette lite is a version of datasette compiled to WebAssembly so that it can run entirely in the browser.
 - [https://tmate.io/](https://tmate.io/) - Share a terminal session with a friend/ Great for remote pair programming or demonstration (much more efficient than streaming/screen sharing).
+- [silverbullet.md](https://silverbullet.md/) - Markdown-based note taking app with collaboration using [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+- [red](https://github.com/antonmedv/red) - a terminal-based log analysis tool
 
 ### JSON
 
