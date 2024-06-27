@@ -17,7 +17,8 @@ This is just a collection of useful libraries, utilities and development tools t
 - [tig](https://github.com/jonas/tig) - **Text-mode Interface for Git**. A secret weapon for Git productivity. Quickly browse repositories, view diffs, search commit logs and more. Highly recommended for anyone who prefers a command line but still misses some GUI code browser functionality.
 - [tmate](https://tmate.io/) - Share a terminal session with a friend/ Great for remote pair programming or demonstration (much more efficient than streaming/screen sharing).
 - [up](https://github.com/akavel/up) - interactively build shell pipelines.
-
+- [gomplate](https://github.com/hairyhenderson/gomplate) - Render GO-Templates from the CLI. Can inject values from various data sources and file formats including local or remote files (JSON, YAML), Environment variables, AWS Secrets/Parameter Store, Consul, and a bunch more.
+- [xc](https://github.com/joerdav/xc) - a CLI task runner. Execute scripts embeded in markdown.
 ## Language Servers and Editor Extensions
 - [markdown oxide](https://github.com/Feel-ix-343/markdown-oxide) - a language server for note taking with markdown. Supports vs.code and neovim, among others.
     > "*Markdown Oxide is attempting to be the best Personal Knowledge Management (PKM) system for software enthusiasts*"
