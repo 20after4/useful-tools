@@ -41,6 +41,9 @@ This is just a collection of useful libraries, utilities and development tools t
 * [bubbletea](https://github.com/charmbracelet/bubbletea) TUI framework based for go.
   > "The fun, functional and stateful way to build terminal apps. A Go framework based on The Elm Architecture. Bubble Tea is well-suited for simple and complex terminal applications, either inline, full-window, or a mix of both."
 
+## Servers and Infrastructure Components
+* [caddy](https://caddyserver.com/) - a single-binary webserver with automatic ssl certificate management. Extremely easy to configure and deploy yet powerful and versitile. Caddy is a very capable reverse-proxy server and works especially well with node.js and php applications.
+
 ### JSON
 
 - [jsonhero](https://github.com/jsonhero-io/jsonhero-web) - a feature-rich GUI editor & browser for JSON data.
